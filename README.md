@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ridwan Adeyemo
-- 👀 I’m interested in Web and App development
+- 👀 I’m interested in Web App development
 - 🌱 I’m currently learning Python at the Zuri 
 - 💞️ I’m looking to collaborate on Full Stack Web Developement.
 - 📫 How to reach me: adesolaridwan2003@gmail.com
