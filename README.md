@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ridwan Adeyemo
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Developement.
+- 💞️ I’m looking to collaborate on Web Developement and Open Source Projects.
 - 📫 How to reach me: adesolaridwan2003@gmail.com
 - 🎉 HNGi8 Finalist
 <!---
