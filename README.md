@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ridwan Adeyemo
-- 👀 I’m interested in Technology
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Developement and Open Source Projects.
 - 📫 How to reach me: adesolaridwan2003@gmail.com
