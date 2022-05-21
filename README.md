@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ridwan Adeyemo
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning JavaScript & ReatJS
+- 👀 I’m into in Software Engineering
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Developement and Open Source Projects.
 - 🎁 Looking for a Intern Position
 - 📫 How to reach me: adesolaridwan2003@gmail.com
