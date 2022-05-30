@@ -2,7 +2,7 @@
 - 👀 I’m into in Software Engineering
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Developement and Open Source Projects.
-- 🎁 Looking for a Intern Position
+- 🎁 Looking for a Software or Web development Position
 - 📫 How to reach me: adesolaridwan2003@gmail.com
 - 🎉 HNGi8 Finalist
 <!---
