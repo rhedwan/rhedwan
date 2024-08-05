@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Ridwan Adeyemo
-- 👀 I’m into in Software Engineering
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Developement and Open Source Projects.
-- 🎁 Looking for a Software or Web development Position
-- 📫 How to reach me: adesolaridwan2003@gmail.com
-- 🎉 HNGi8 Finalist
+- 👀 I’m into Software Engineering
+- 🌱 I’m currently learning Blockchain
+- 🎁 Looking for a Software Engineering role
+- 📫 How to reach me: hello@rhedwan.com
 <!---
 rhedwan/rhedwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
