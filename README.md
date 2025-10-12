@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Ridwan Adeyemo
 - 👀 I’m into Software Engineering
+<!---
 - 🌱 I’m currently learning Blockchain
+--->
 - 🎁 Looking for a Software Engineering role
 - 📫 How to reach me: hello@rhedwan.com
 <!---
